@@ -1,0 +1,5 @@
+Country,Path,Lag,P-Value
+China,Invest->Patents,2,0.09794816197565563
+China,Patents->Market,2,0.9401789060888732
+USA,Invest->Patents,2,0.11861436909417784
+USA,Patents->Market,2,0.42945526197652467
